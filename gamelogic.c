@@ -1,6 +1,5 @@
 /*
- * cs120b_project.c
- *  Author: Tien Tran CS120B Winter 2015
+ *  Author: Tien Tran 
  * Thanks to
  * http://uzebox.org/files/NES-controller-Hydra-Ch6All-v1.0.pdf
  * http://www.circuitvalley.com/2012/02/lcd-custom-character-hd44780-16x2.html
